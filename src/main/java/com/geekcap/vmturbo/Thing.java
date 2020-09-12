@@ -4,7 +4,7 @@ public class Thing {
   private int n = 0;
 
   public int getN() {
-    return n;
+    return x;
   }
 
   public void setN(int n) {
